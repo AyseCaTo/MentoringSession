@@ -35,6 +35,8 @@ public class Circle {
     }
 }
 
+// comment
+
 /*
 Circle:
     radius
